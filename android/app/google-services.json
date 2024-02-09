@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "504337660042",
+    "project_id": "imessage-ff30d",
+    "storage_bucket": "imessage-ff30d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:504337660042:android:1298857a528bb5e6469573",
+        "android_client_info": {
+          "package_name": "com.example.imessage"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAoGXhrPkL2X53xGiWebqYRcpdXy57OopQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
